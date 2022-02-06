@@ -1,0 +1,12 @@
+Library/
+obj/
+.vs/
+*.csproj
+*.sln
+Temp/
+Build/
+Build.zip
+Logs/
+Builds/
+
+hysimulation.v11.suo
